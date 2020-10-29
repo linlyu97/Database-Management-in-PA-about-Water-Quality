@@ -1,4 +1,3 @@
-# Database-Management-in-PA-about-Water-Quality
 
 1. The Code folder includes code scripts of our project.
 
